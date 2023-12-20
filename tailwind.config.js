@@ -12,6 +12,8 @@ export default {
       },
       colors: {
         purple: "#3D00B7", // Define your custom color
+        collectionLeftP: "#363639",
+        collectionLeftH: "#3A3A3A"
       },
       width: {
         discoverP: "23.5rem",
