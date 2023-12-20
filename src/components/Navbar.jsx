@@ -20,7 +20,7 @@ function Navbar() {
           />
           <img
             className="absolute top-3 right-4"
-            src="/public/images/Navbar/search-normal-1 1.svg"
+            src="/images/Navbar/search-normal-1 1.svg"
             alt="Search Icon"
           />
         </div>
