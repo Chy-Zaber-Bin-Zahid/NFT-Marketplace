@@ -9,7 +9,7 @@ function Discover() {
   ];
 
   return (
-    <div className="max-w-custom mx-auto grid grid-cols-2 gap-10 py-20">
+    <div className="max-w-custom mx-auto grid grid-cols-5  py-20">
       <DiscoverLeft threeNumbersAndCategory={threeNumbersAndCategory} />
       <DiscoverRight />
     </div>

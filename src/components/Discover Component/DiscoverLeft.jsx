@@ -1,7 +1,7 @@
 function DiscoverLeft({ threeNumbersAndCategory }) {
   return (
-    <div className="py-2">
-      <h1 className="font-integral font-extrabold tracking-tighter text-4xl mb-5">
+    <div className="py-2 col-span-3">
+      <h1 className="font-integral font-extrabold tracking-tighter text-5xl mb-5">
         DISCOVER, AND COLLECT DIGITAL ART NFTS
       </h1>
       <p className="font-sans w-discoverP text-gray-600 mb-8">

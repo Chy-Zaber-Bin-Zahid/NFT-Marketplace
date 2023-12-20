@@ -16,6 +16,10 @@ export default {
       width: {
         discoverP: "23.5rem",
       },
+      inset: {
+        "custom-top": "12.5rem", // Define your custom top value here
+        "custom-left": "4.3rem", // Define your custom top value here
+      },
     },
   },
   plugins: [],
